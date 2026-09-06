@@ -1,2 +1,0 @@
-this is 
-how to install in termux 
