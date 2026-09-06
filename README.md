@@ -11,7 +11,7 @@ Upload the contents of this folder to the **main** branch of `Krishn-145/krishn-
 ## One-command setup
 
 ```bash
-curl -fsSL https://krishn-145.github.io/krishn-repo/install.sh | bash
+curl -fsSL https://kalidrod.github.io/krishn-repo/install.sh | bash
 ```
 
 The installer adds the repository and attempts to install all three packages.
